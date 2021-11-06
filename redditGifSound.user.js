@@ -9,6 +9,4 @@
 // @match        https://www.redgifs.com/watch/*
 // ==/UserScript==
 
-(() => {
-    console.log("RedditGifSound 0.0.1");
-})();
+console.log("RedditGifSound 0.0.1");
