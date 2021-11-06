@@ -10,5 +10,5 @@
 // ==/UserScript==
 
 (() => {
-    console.log("RedditGifSound");
+    console.log("RedditGifSound 0.0.1");
 })();
