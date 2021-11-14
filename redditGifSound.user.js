@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Reddit Gif Sound
 // @namespace    https://github.com/VoltronicAcid/
-// @downloadURL  https://raw.githubusercontent.com/VoltronicAcid/redditGifSound/master/redditGifSound.user.js
-// @version      0.0.2
+// @downloadURL  https://github.com/VoltronicAcid/redditGifSound/raw/master/redditGifSound.user.js
+// @version      0.0.3
 // @description  Remember mute setting for gifs on reddit
 // @author       VoltronicAcid
 // @run-at       document-idle
