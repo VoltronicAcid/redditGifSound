@@ -7,6 +7,7 @@
 // @author       VoltronicAcid
 // @run-at       document-idle
 // @match        https://www.redgifs.com/ifr/*
+// @match        https://www.redgifs.com/watch/*
 // ==/UserScript==
 
 (() => {
