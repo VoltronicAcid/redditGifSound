@@ -2,7 +2,7 @@
 // @name         Reddit RES RedGifs Sound Control
 // @namespace    https://github.com/VoltronicAcid/
 // @downloadURL  https://github.com/VoltronicAcid/redditGifSound/raw/master/redditGifSound.user.js
-// @version      0.0.3
+// @version      0.0.4
 // @description  Unmute content from redgifs.com when browsing Reddit with RES
 // @author       VoltronicAcid
 // @run-at       document-idle
