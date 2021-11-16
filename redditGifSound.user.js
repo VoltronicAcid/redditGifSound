@@ -3,7 +3,7 @@
 // @namespace    https://github.com/VoltronicAcid/
 // @downloadURL  https://github.com/VoltronicAcid/redditGifSound/raw/master/redditGifSound.user.js
 // @version      0.0.3
-// @description  Remember mute setting for gifs on reddit
+// @description  Unmute content from redgifs.com when browsing Reddit with RES
 // @author       VoltronicAcid
 // @run-at       document-idle
 // @match        https://www.redgifs.com/ifr/*
